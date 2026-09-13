@@ -26,7 +26,7 @@ The analysis follows a strict top-down structure to ensure narrative and statist
 
 ## 🛠️ Tech Stack & Libraries
 
-- **Language:** Python 3.x
+- **Language:** Python
 - **Data Manipulation:** `pandas`, `numpy`
 - **Data Visualization:** `seaborn`, `matplotlib`
 
